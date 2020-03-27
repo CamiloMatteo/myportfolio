@@ -13,7 +13,7 @@ class Landing extends Component {
                         <div className="banner-text">
                             <h1>Web Developer</h1>
                             <hr />
-                            <p>HTML|CSS | Bootstrap | Bulma | JavaScript | React | Ruby | Rails | Postgres | MongoDB </p>
+                            <p>HTML/CSS | Bootstrap | Bulma | JavaScript | React | Ruby | Rails | Postgres | MongoDB </p>
                             <div className="social-links">
                                 {/* FaceBook */}
                                 <a href="https://www.facebook.com/cmatteop" rel="noopener noreferrer" target="_blank" >
