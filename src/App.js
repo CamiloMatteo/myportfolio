@@ -17,7 +17,7 @@ function App() {
         <Header className="header-color" title="Title" scroll>
           <Navigation>
             <Link to="/resume">Resume</Link>
-            <Link to="/about">About</Link>
+            <Link to="/about">About Me</Link>
             <Link to="/contact">Contact</Link>
             <Link to="/projects">Projects</Link>
           </Navigation>
